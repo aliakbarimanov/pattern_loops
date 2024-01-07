@@ -1,1 +1,1 @@
-# pattern_loops
+# Bu task-da javascript loop-lari ile içi boş kvadrat, pramida və vurma cədvəli qurulmuşdur.
